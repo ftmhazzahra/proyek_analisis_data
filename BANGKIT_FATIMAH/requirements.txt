@@ -1,0 +1,6 @@
+    "Babel is installed with version 2.16.0\n",
+    "matplotlib is installed with version 3.9.2\n",
+    "numpy is installed with version 2.0.2\n",
+    "pandas is installed with version 2.2.3\n",
+    "seaborn is installed with version 0.13.2\n",
+    "streamlit is installed with version 1.39.0"
